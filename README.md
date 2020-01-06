@@ -1,8 +1,3 @@
-# IMPORTANT: Bug Fixes
-
-## `navigator.getUserMedia`
-
-`navigator.getUserMedia` is now deprecated and is replaced by `navigator.getUserMedia`. To fix this bug replace all versions of `navigator.mediaDevices.getUserMedia` with `navigator.mediaDevices.getUserMedia`
 
 ## Low-end Devices Bug
 
